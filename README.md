@@ -47,5 +47,14 @@ The **Contact Me** page provides a simple yet effective way for visitors to reac
 - A **contact form** where users can enter their **name, email, and message**.  
 - A **backend connection using MySQL** to store messages for future reference.  
 - Alternative contact options like **email and phone number**.  
-Form validation using **JavaScript** ensures that users input correct information before submitting their messages.  
+Form validation using **JavaScript** ensures that users input correct information before submitting their messages.
+
+##OUTPUT##
+
+![Image](https://github.com/user-attachments/assets/5f9e2bdf-1a91-46ad-8f80-db0e8cb1a4ac)
+![Image](https://github.com/user-attachments/assets/ad800302-6a2e-46c1-9bb3-7fdbb8845a38)
+![Image](https://github.com/user-attachments/assets/0bff78e4-1d82-4b0e-bf9e-b48a354d2db0)
+![Image](https://github.com/user-attachments/assets/791895b2-7353-4597-a9f4-e4897db1bc7a)
+![Image](https://github.com/user-attachments/assets/73397da4-b59d-4f59-bfe6-aa2bbbb922c6)
+![Image](https://github.com/user-attachments/assets/04682697-e630-4fcd-84a6-2e0f7737f16d)
  
